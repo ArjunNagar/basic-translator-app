@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/basic-translator-app/static/css/main.beef4b77.css",
+    "main.js": "/basic-translator-app/static/js/main.65954e0d.js",
+    "static/js/787.447f7318.chunk.js": "/basic-translator-app/static/js/787.447f7318.chunk.js",
+    "index.html": "/basic-translator-app/index.html",
+    "main.beef4b77.css.map": "/basic-translator-app/static/css/main.beef4b77.css.map",
+    "main.65954e0d.js.map": "/basic-translator-app/static/js/main.65954e0d.js.map",
+    "787.447f7318.chunk.js.map": "/basic-translator-app/static/js/787.447f7318.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beef4b77.css",
+    "static/js/main.65954e0d.js"
+  ]
+}
